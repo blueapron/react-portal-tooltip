@@ -27,8 +27,8 @@
   "author": "Romain Berger <romain@romainberger.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0"
+    "react": ">=16.6.0",
+    "react-dom": ">=16.6.0"
   },
   "devDependencies": {
     "@babel/cli": "7.2.3",
